@@ -1,0 +1,27 @@
+.ChooseUs{
+    width:80%;
+    margin:100px auto;
+}
+.ChooseUs>h6{
+    width:38%;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+.ChooseUs .allStatus{
+    display:flex;
+}
+.ChooseUs .allStatus img{
+    width:100%;
+    height:300px;
+}
+.ChooseUs .ourStatus{  
+    width:30%;
+    margin:1.5%;
+}
+.ChooseUs .ourStatus .details{
+    width:80%;
+    margin:auto;
+}
+.ChooseUs .ourStatus .details h4{
+    margin:20px 0;
+}

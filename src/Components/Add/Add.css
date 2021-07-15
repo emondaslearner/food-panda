@@ -1,0 +1,56 @@
+.Add{
+    width:70%;
+    margin:auto;
+    overflow:hidden;
+    display:flex;
+    margin-top:50px;
+}
+.Add .right-img{
+    width:50%;
+    padding:30px;
+}
+.Add .right-img img{
+    width:100%;
+    height:auto;
+}
+.Add .left-text{
+    width:50%;
+    padding-right:50px;
+}
+.Add .left-text a{
+    padding:10px 30px;
+    background-color:#F91944;
+    border-radius:30px;
+    color:white;
+    transition:.2s background;
+    border:none;
+    cursor: pointer;
+}
+.Add .left-text a:hover{  
+    background-color: #9b1b34;
+}
+.Add .left-text h1{
+    font-size:35px;
+    margin-bottom:20px;
+    margin-top:80px;
+}
+.Add .prizeAndQty{
+    display:flex;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.Add .controlQty{
+    margin-left:20px;
+    border:1px solid #ddd;
+    padding:8px 0;
+    border-radius: 30px;
+}
+.Add .controlQty span{
+    padding:10px;
+}
+.Add .controlQty span:first-child{
+    cursor: pointer;
+}
+.Add .controlQty span:last-child{
+    cursor: pointer;
+}

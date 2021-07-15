@@ -1,0 +1,25 @@
+.all-foods{
+    width:70%;
+}
+.food img{
+    width:200px;
+    height:200px;
+}
+.food{
+    text-align:center;
+    padding:3% 10%;
+    color:black;
+}
+.food:hover{
+    box-shadow:2px 5px 30px #e6e2e2;
+    cursor: pointer;
+}
+.food h5{
+    margin:3px 0;
+}
+a{ 
+    text-decoration:none;
+}
+.food p{
+    margin-bottom:5px;
+}

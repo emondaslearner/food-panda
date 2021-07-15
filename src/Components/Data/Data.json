@@ -1,0 +1,145 @@
+[{
+    "id": 1,
+    "food": "Quick Italian Spinach Pie",
+    "img":"../image/lunch/lunch1.png",
+    "category": "lunch",
+    "shotDes": "Nondisp Zone III fx sacrum",
+    "longDes": "Nondisplaced Zone III fracture of sacrum, subsequent encounter for fracture with routine healing",
+    "prize": 10
+  }, {
+    "id": 2,
+    "food": "Veggie Frittata",
+    "img":"../image/dinner/dinner1.png",
+    "category": "dinner",
+    "shotDes": "Mech compl of implnt elec",
+    "longDes": "Other mechanical complication of implanted electronic neurostimulator of spinal cord electrode (lead), sequela",
+    "prize": 70
+  }, {
+    "id": 3,
+    "food": "Oven Fried Apples",
+    "img":"../image/Breakfast/breakfast1.png",
+    "category": "breakfast",
+    "shotDes": "Poisoning by glucocort",
+    "longDes": "Poisoning by glucocorticoids and synthetic analogues, intentional self-harm, initial encounter",
+    "prize": 65
+  }, {
+    "id": 4,
+    "food": "Creamed Hamburger Gravy",
+    "img":"../image/lunch/lunch2.png",
+    "category": "lunch",
+    "shotDes": "Other fracture of sacrum",
+    "longDes": "Poisoning by glucocorticoids and synthetic analogues, intentional self-harm, initial encounter",
+    "prize": 48
+  }, {
+    "id": 5,
+    "food": "Protein Powered Turkey",
+    "img":"../image/dinner/dinner2.png",
+    "category": "dinner",
+    "shotDes": "Corrosion of unspecified eyelid",
+    "longDes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "prize": 53
+  }, {
+    "id": 6,
+    "food": "Roasted Red Pepper Hummus",
+    "img":"../image/Breakfast/breakfast2.png",
+    "category": "breakfast",
+    "shotDes": "Myositis ossificans progressiva",
+    "longDes": "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, initial encounter",
+    "prize": 53
+  }, {
+    "id": 7,
+    "food": "Meringue Christmas Cookies",
+    "img":"../image/lunch/lunch3.png",
+    "category": "lunch",
+    "shotDes": "Traum hemor cereb",
+    "longDes": "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of 6 hours to 24 hours, initial encounter",
+    "prize": 72
+  }, {
+    "id": 8,
+    "food": "fresh melon fruit salad",
+    "img":"../image/dinner/dinner3.png",
+    "category": "dinner",
+    "shotDes": "Laceration without foreign",
+    "longDes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+    "prize": 42
+  }, {
+    "id": 9,
+    "food": "Zucchini light soup",
+    "img":"../image/Breakfast/breakfast3.png",
+    "category": "breakfast",
+    "shotDes": "Food in pharynx",
+    "longDes": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+    "prize": 32
+  }, {
+    "id": 10,
+    "food": "Chicken Wrap",
+    "img":"../image/lunch/lunch4.png",
+    "category": "lunch",
+    "shotDes": "Disease of blood",
+    "longDes": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architec",
+    "prize": 38
+  }, {
+    "id": 11,
+    "food": "Peach Crunch",
+    "img":"../image/dinner/dinner4.png",
+    "category": "dinner",
+    "shotDes": "Nondisp spiral fx shaft",
+    "longDes": "Nondisplaced spiral fracture of shaft of right femur, subsequent encounter for open fracture type I or II with routine healing",
+    "prize": 70
+  }, {
+    "id": 12,
+    "food": "Turkey Burger - Sliders",
+    "img":"../image/Breakfast/breakfast4.png",
+    "category": "breakfast",
+    "shotDes": "Oth fracture of right femur",
+    "longDes": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings",
+    "prize": 50
+  }, {
+    "id": 13,
+    "food": "French Toast",
+    "img":"../image/lunch/lunch5.png",
+    "category": "lunch",
+    "shotDes": "Drown d/t thrown ovrbrd",
+    "longDes": "Drowning and submersion due to being thrown overboard by motion of (nonpowered) inflatable craft, subsequent encounter",
+    "prize": 28
+  }, {
+    "id": 14,
+    "food": "Baked apple",
+    "img":"../image/dinner/dinner5.png",
+    "category": "dinner",
+    "shotDes": "Displaced comminuted fx shaft",
+    "longDes": "Displaced comminuted fracture of shaft of humerus, unspecified arm, initial encounter for closed fracture",
+    "prize": 75
+  }, {
+    "id": 15,
+    "food": "Hearty Grain Breakfast",
+    "img":"../image/Breakfast/breakfast5.png",
+    "category": "breakfast",
+    "shotDes": "Underdosing of tricyclic",
+    "longDes": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound",
+    "prize": 49
+  }, {
+    "id": 16,
+    "food": "Chicken Chowder",
+    "img":"../image/lunch/lunch6.png",
+    "category": "lunch",
+    "shotDes": "Oth fracture of r low leg",
+    "longDes": "Other fracture of right lower leg, subsequent encounter for closed fracture with delayed healing",
+    "prize": 44
+  }, {
+    "id": 17,
+    "food": "Asparagus Salad",
+    "img":"../image/dinner/dinner6.png",
+    "category": "dinner",
+    "shotDes": "Acute bronchitis due",
+    "longDes": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+    "prize": 66
+  }, {
+    "id": 18,
+    "food": "Anne's Sesame Noodles",
+    "img":"../image/Breakfast/breakfast6.png",
+    "category": "breakfast",
+    "shotDes": "Oth postproc complications",
+    "longDes": "Other postprocedural complications and disorders of respiratory system, not elsewhere classified",
+    "prize": 73
+  }]

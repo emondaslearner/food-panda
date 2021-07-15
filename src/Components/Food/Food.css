@@ -1,0 +1,40 @@
+.foods{
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+}
+.foods li{
+    list-style:none;
+    padding:3px 20px;
+}
+.foods li a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+.foods li a:hover{
+    color:#F91944;
+    border-bottom:2px solid #F91944;
+}
+.foods li .Lunch{ 
+    color:#F91944;
+    border-bottom:2px solid #F91944;
+}
+.foods li .Dinner{ 
+    color:#F91944;
+    border-bottom:2px solid #F91944;
+}
+.foods li .Breakfast{ 
+    color:#F91944;
+    border-bottom:2px solid #F91944;
+}
+.check-item{
+    width:70%;
+    margin:auto;
+}
+.all-items{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap:10%;
+  margin-top:50px;
+}

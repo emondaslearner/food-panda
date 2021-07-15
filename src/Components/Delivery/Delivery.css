@@ -1,0 +1,63 @@
+.delivery{
+    width:70%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin:20px auto;
+}
+.delivery .map{
+    width:60%;
+    border-radius:10px;
+}
+.delivery .map img{
+    width:100%;
+    height:auto;
+}
+.delivery .details{
+    width:30%;
+    margin:5%;
+    background-color:#F5F5F5;
+    border-radius:10px;
+}
+.delivery .details img{
+    width:70px;
+    margin-left:30px;
+    padding:20px;
+}
+.delivery .location{
+    width:70%;
+    background-color: white;
+    margin:auto;
+    padding:10px 20px;
+    border-radius:10px;
+    line-height:20px;
+    color:#909090;
+}
+.delivery .location .h5{
+    margin-top:20px;
+}
+.delivery .raider-details{
+    width:80%;
+    display:flex;
+    padding:0px;
+    margin-bottom:20px;
+}
+.delivery .raider-details img{
+    width:50px;
+    margin:0;
+    padding:10px;
+}
+.delivery .raider-details .raider{
+    margin-top:20px;
+}
+.delivery .details>h2{
+    margin-top:20px;
+    margin-left:20px;
+    line-height:20px;
+}
+.delivery .details>h6{
+    margin-top:10px;
+    margin-left:20px;
+    margin-bottom: 20px;
+    line-height:20px;
+}

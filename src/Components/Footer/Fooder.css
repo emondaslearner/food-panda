@@ -1,0 +1,22 @@
+.footer{
+    display:flex;
+    background-color:black;
+    padding: 50px;
+}
+.footer img{
+    width:100px;
+    height:30px;
+}
+.footer .right{
+    display:flex;
+    margin-left:40%;
+}
+.footer ul{
+    margin:50px;
+    margin-top:0;
+    display: block;
+}
+.footer ul li a{
+    color:#C9C9C9;
+    font-size:14px;
+}
